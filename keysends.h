@@ -1,6 +1,4 @@
 #pragma once
 
-void doAKeyPress();
-void doWKeyPress();
-void doSKeyPress();
-void doDKeyPress();
+
+void doKeyPress(short x, float y);
